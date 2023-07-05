@@ -24,7 +24,7 @@ ed:SKP
 efibootmgr:SKP
 efivar:SKP
 elilo:SKP
-elogind:SKP
+elogind:ADD
 elvis:SKP
 etc:ADD
 eudev:ADD
