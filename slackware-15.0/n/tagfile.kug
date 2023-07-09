@@ -21,7 +21,7 @@ dehydrated:SKP
 dhcp:SKP
 dhcpcd:SKP
 dnsmasq:ADD
-dovecot:SKP
+dovecot:ADD
 ebtables:SKP
 elm:SKP
 epic5:SKP
@@ -117,7 +117,7 @@ php:SKP
 pidentd:ADD
 pinentry:ADD
 popa3d:SKP
-postfix:SKP
+postfix:ADD
 ppp:SKP
 procmail:ADD
 proftpd:SKP
@@ -146,7 +146,7 @@ vsftpd:SKP
 wget:ADD
 wget2:SKP
 whois:ADD
-wireguard-tools:SKP
+wireguard-tools:ADD
 wireless_tools:SKP
 wpa_supplicant:SKP
 yptools:SKP
