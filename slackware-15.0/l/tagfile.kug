@@ -116,7 +116,7 @@ hicolor-icon-theme:SKP
 hunspell:SKP
 hyphen:SKP
 icon-naming-utils:SKP
-icu4c:SKP
+icu4c:ADD
 id3lib:SKP
 imagemagick:SKP
 isl:SKP
@@ -226,7 +226,7 @@ libtasn1:SKP
 libtheora:SKP
 libtiff:SKP
 libunistring:SKP
-libunwind:SKP
+libunwind:ADD
 liburing:SKP
 libusb:ADD
 libusb-compat:ADD
