@@ -18,8 +18,8 @@ adwaita-icon-theme:SKP
 alsa-lib:SKP
 alsa-oss:SKP
 alsa-plugins:SKP
-apr:SKP
-apr-util:SKP
+apr:ADD
+apr-util:ADD
 argon2:SKP
 aspell:SKP
 aspell-en:SKP
@@ -225,7 +225,7 @@ libssh2:ADD
 libtasn1:SKP
 libtheora:SKP
 libtiff:SKP
-libunistring:SKP
+libunistring:ADD
 libunwind:ADD
 liburing:SKP
 libusb:ADD
